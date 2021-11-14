@@ -1,6 +1,6 @@
 ### 给EUserv IPV6添加WARP，白嫖WARP高速通道！
 
-### 德鸡续期一键脚本项目（小白专享）：https://github.com/YG-tsj/EUservRenew
+### 德鸡续期一键脚本项目（小白专享）：https://github.com/ghostzyy/euservRenew
 
 ### IPV6 only VPS添加WARP的好处：
 
@@ -18,13 +18,12 @@
 
 7：替代NAT64/DNS64方案，网络效率更高！
 
-#### 联合Oracle甲骨文https://github.com/YG-tsj/CFWarp-Pro 
 -------------------------------------------------------------------------------------------------------
 
 
 ### 仅支持Debian 10/Ubuntu 20.04系统一键综合脚本
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/YG-tsj/EUserv-warp/wgmd.sh && chmod +x wgmd.sh && ./wgmd.sh
+wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ghostzyy/euserv-warp/wgmd.sh && chmod +x wgmd.sh && ./wgmd.sh
 ```
 进入脚本快捷方式 ```bash wgmd.sh```
 
@@ -34,7 +33,7 @@ wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/YG-tsj/EUserv-warp/wg
 
 #### 脚本4：IPV6是WARP分配的IP，无IPV4（估计目前没人会选择脚本4。。。）
 
-- [刷新脚本](https://purge.jsdelivr.net/gh/YG-tsj/EUserv-warp/wgmd.sh)
+- [刷新脚本](https://purge.jsdelivr.net/gh/ghostzyy/euserv-warp/wgmd.sh)
 
 ----------------------------------------------------------------------------------------------------
 
@@ -105,9 +104,6 @@ wg-quick up wgcf
 关闭systemctl disable wg-quick@wgcf
 
 -------------------------------------------------------------------------------------------------------
-
-### TG群：https://t.me/joinchat/nrUoeEJV_9UxNDhl
-### YouTube频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
 
 ---------------------------------------------------------------------------------------------------------
 
