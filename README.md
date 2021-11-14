@@ -31,8 +31,6 @@ wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ghostzyy/euserv-warp/
 
 #### 脚本4：IPV6是WARP分配的IP，无IPV4（估计目前没人会选择脚本4。。。）
 
-- [刷新脚本](https://purge.jsdelivr.net/gh/ghostzyy/euserv-warp/wgmd.sh)
-
 ----------------------------------------------------------------------------------------------------
 
 #### 注意：域名解析所填写的IP必须是VPS本地IP，与WARP分配的IP没关系！
